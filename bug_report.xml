@@ -1,1 +1,9 @@
-
+<ID>1</ID>
+<Title>Sign up with Google option is not available</Title>
+<StepsToReproduce>1. Open the app in any browser  2. Click on Sign up</StepsToReproduce>
+<ExpectedResults>The available options are: 1) Sign up with email 2) Sign up with Facebook 3) Sign up with Google</ExpectedResults>
+<ActualResults>The available options are: 1) Sign up with email 2) Sign up with Facebook</ActualResults>
+<Reporter>Kitty Sontik</Reporter>
+<Severity>High</Severity>
+<Priority>High</Priority>
+<Environment>N/A</Environment>
